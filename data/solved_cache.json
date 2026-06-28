@@ -1,0 +1,8 @@
+{
+  "_comment": "Records which problems the learner has worked through and when, to drive spaced repetition later. Keyed by problem id.",
+  "two-sum": {
+    "last_seen": null,
+    "times_practiced": 0,
+    "confidence": 0
+  }
+}

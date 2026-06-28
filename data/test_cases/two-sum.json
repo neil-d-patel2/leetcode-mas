@@ -1,0 +1,8 @@
+{
+  "func_name": "solve",
+  "_comment": "Sample cases the test agent runs IF the learner fills in the scaffold. input is the positional args passed to func_name.",
+  "cases": [
+    {"name": "basic", "input": [[2, 7, 11, 15], 9], "expected": [0, 1]},
+    {"name": "middle", "input": [[3, 2, 4], 6], "expected": [1, 2]}
+  ]
+}

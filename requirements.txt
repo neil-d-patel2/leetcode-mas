@@ -1,0 +1,9 @@
+# The scaffold runs with ZERO third-party packages in stub mode
+# (everything below is standard library). Install these only when you
+# move to real Ollama-backed runs or want to run the test suite.
+
+# HTTP calls to the local Ollama server (real LLM + embeddings mode).
+requests>=2.31
+
+# Test runner for the tests/ directory.
+pytest>=8.0
